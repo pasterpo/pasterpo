@@ -22,8 +22,8 @@
 ### GitHub stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pasterpo&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" width="48%" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasterpo&layout=compact&theme=dark&hide_border=true&bg_color=00000000" width="30%" alt="top langs" />
+<img src="https://github-stats-extended.vercel.app/api?username=pasterpo&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" width="48%" alt="stats" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=pasterpo&layout=compact&theme=dark&hide_border=true&bg_color=00000000" width="30%" alt="top langs" />
 </div>
 
 <br>
