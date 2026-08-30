@@ -14,7 +14,7 @@
 ### Currently
 
 - 🔢 Independent research in number theory and geometry — three preprints, three sequences accepted into the [OEIS](https://oeis.org/)
-- 🛡️ Red-teaming frontier AI systems with [Gray Swan](https://www.app.grayswan.ai/arena/) 
+- 🛡️ Red-teaming frontier AI systems with [Gray Swan Arena](https://www.app.grayswan.ai/arena/) 
 - 🌟 Contributor to [`system-prompts-and-models-of-ai-tools`](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) — 140k+ ⭐, one of the most-starred repos on GitHub
 
 <br>
