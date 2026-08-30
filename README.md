@@ -4,9 +4,6 @@
 
 ### Independent math researcher building rigor into everything, including how models get tested.
 
-[![LinkedIn](https://img.shields.io/badge/-rudra--jadhav--math-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rudra-jadhav-math)
-[![ORCID](https://img.shields.io/badge/-0009--0001--9411--3422-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-9411-3422)
-
 </div>
 
 <br>
